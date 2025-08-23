@@ -3,10 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&duration=2000&pause=2000&color=52B6F7&background=FFFFFF00&width=435&lines=Passionate+Coder+%26+Lifelong+Learner;Welcome+To+My+Profile!)](https://git.io/typing-svg) 
 ## 📌 Overview  
 ![Profile views](https://komarev.com/ghpvc/?username=HazimDanish16)  
-![Wantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wantanasyraff&show_icons=true&theme=radical&card_height=300)
+![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HazimDanish16&show_icons=true&theme=radical&card_height=300)
 
 ### 💬 Common Languages Used  
-[![Languages Most Frequently Used](https://github-readme-stats.vercel.app/api/top-langs/?username=wantanasyraff&layout=donut-vertical&theme=radical&card_width=400&card_height=300)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages Most Frequently Used](https://github-readme-stats.vercel.app/api/top-langs/?username=HazimDanish16&layout=donut-vertical&theme=radical&card_width=400&card_height=300)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
