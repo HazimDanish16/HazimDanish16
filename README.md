@@ -38,7 +38,7 @@ I’m the type of developer who breaks things to rebuild them better. Outside of
 
 ### 🖨️ Founder & Developer — GOPrints
 
-**2024–Present**
+**2025–Present**
 
 * Developed a Raspberry Pi–powered kiosk printing system
 * Designed token-based payment architecture using Stripe
@@ -48,7 +48,7 @@ I’m the type of developer who breaks things to rebuild them better. Outside of
 
 ### 🛒 Founder — PolyTech Town
 
-**2024–Present**
+**2025–Present**
 
 * Developed a curated electronics marketplace for students
 * Designed dynamic pricing logic & supplier automation
