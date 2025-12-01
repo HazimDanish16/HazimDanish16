@@ -131,7 +131,6 @@ I’m the type of developer who breaks things to rebuild them better. Outside of
 ### 📘 Previous Courses
 
 * **SoloLearn:** Python
-* **Cisco NetAcad:** Linux Essentials, IoT Basics, Cybersecurity Essentials
 * **Personal Learning:** Backend engineering, embedded systems, workflow architecture
 
 [![SoloLearn](https://img.shields.io/badge/SoloLearn-View_Certifications-blue)](https://www.sololearn.com/en/profile/30049508)
